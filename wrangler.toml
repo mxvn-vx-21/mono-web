@@ -6,4 +6,4 @@ compatibility_flags = ["nodejs_compat"]
 # Create a Hyperdrive config for your Postgres (see README), paste its id here.
 [[hyperdrive]]
 binding = "HYPERDRIVE"
-id = "PASTE_YOUR_HYPERDRIVE_ID"
+id = "49087695656f4c019ca06504083e9fc6"
